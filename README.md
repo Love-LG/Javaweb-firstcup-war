@@ -2,9 +2,9 @@
 java web course study example
 
 1.先决条件：
-maven3.6
-glassfish5
-jdk1.8+
+* maven3.6
+* glassfish5
+* jdk1.8+
 2.本地运行
 首先克隆本仓库到本地并解压
 ```
